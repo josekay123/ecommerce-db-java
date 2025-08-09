@@ -1,0 +1,6 @@
+ID,CategoryID,Name,Description,Price,Stock,SKU,ImageURL,Created At,Updated At
+3,2,Cotton T-Shirt,"Unisex, various colors",24.99,500,CLO-TS-COT,,2025-08-05 20:54:24.0,2025-08-05 21:19:23.0
+4,3,Desk Lamp,Adjustable brightness,39.99,150,HOM-DL-ADJ,,2025-08-05 20:54:24.0,2025-08-05 21:19:23.0
+5,1,New Laptop,"15.6"" FHD Laptop",899.99,50,LP-001,,2025-08-05 21:17:25.0,2025-08-05 21:19:23.0
+1,1,Smartphone X,"6.5"" AMOLED, 128GB",799.99,100,ELEC-SM-X-128,,2025-08-05 20:54:24.0,2025-08-05 21:19:23.0
+2,1,Wireless Earbuds,Noise cancelling,149.99,200,ELEC-EB-NC,,2025-08-05 20:54:24.0,2025-08-05 21:19:23.0

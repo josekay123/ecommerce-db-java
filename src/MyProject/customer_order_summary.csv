@@ -1,0 +1,10 @@
+CustomerName,Email,ProductName,Quantity,TotalPaid,PaymentMethod,OrderDate
+Sarah Johnson,sarah.johnson@email.com,MacBook Pro M2,2,259.98,Debit Card,2025-08-07
+John Anderson,john.anderson@email.com,iPhone 15 Pro,1,899.99,PayPal,2025-08-07
+John Smith,john.smith@example.com,Levi's 501 Jeans,1,15.99,Credit Card,2025-08-07
+John Smith,john.smith@example.com,Levi's 501 Jeans,1,15.99,Debit Card,2025-08-07
+John Smith,john.smith@example.com,Men's Slim Fit Jeans,2,1199.98,Credit Card,2025-08-07
+John Smith,john.smith@example.com,Men's Slim Fit Jeans,2,1199.98,Debit Card,2025-08-07
+John Smith,john.smith@example.com,Levi's 501 Jeans,1,15.99,Credit Card,2025-08-07
+John Smith,john.smith@example.com,Men's Slim Fit Jeans,2,1199.98,Credit Card,2025-08-07
+jack j,jk@gmail.com,iPhone 14 Pro Max,1,1499.99,Credit Card,2025-08-07

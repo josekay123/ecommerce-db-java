@@ -1,0 +1,6 @@
+ID,First Name,Last Name,Email,Phone Number,Gender,Date of Birth,Created At,Updated At,Membership ID
+4,Michael,Chen,michael.c@example.com,555-0102,Male,1985-11-22,2025-08-05 20:10:31.0,2025-08-05 20:10:31.0,3
+13,alex,d,da@gmail.com,5669999,,,2025-08-06 11:07:02.0,2025-08-06 11:07:02.0,2
+3,Sarah,Johnson,sarah.j@example.com,555-0101,Female,1990-05-15,2025-08-05 20:10:31.0,2025-08-05 20:10:31.0,2
+10,joseph ,kayijuka,kayijukajoseph1@gmail.com,698967882,,,2025-08-06 06:47:55.0,2025-08-06 06:47:55.0,4
+5,Emma,Rodriguez,emma.r@example.com,555-0103,Other,1995-03-08,2025-08-05 20:10:31.0,2025-08-05 20:10:31.0,1
